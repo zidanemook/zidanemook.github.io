@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-06-05 17:06:25
+title:  "백엔드 첫날 강의 후기"
+date:   2022-12-12 21:51:25
 categories: TIL
 ---
 
